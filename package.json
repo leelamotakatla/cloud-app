@@ -1,0 +1,11 @@
+{
+  "name": "cloud-app",
+  "version": "1.0.0",
+  "description": "My first cloud app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
